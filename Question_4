@@ -1,0 +1,71 @@
+What is requirements engineering? Describe the process and its importance in the software development lifecycle. Software Design Principles:
+
+Requirements engineering is a systematic approach to eliciting, analyzing, documenting, and managing the requirements of a software system. It's a crucial phase in the software development lifecycle (SDLC) that lays the foundation for designing and building software solutions that meet user needs and expectations.
+
+
+Process of Requirements Engineering:
+Elicitation:
+Objective: Gather information about the needs and expectations of stakeholders, including end-users, clients, and other project stakeholders.
+Techniques: Interviews, surveys, workshops, brainstorming sessions, and observation are commonly used to elicit requirements.
+Analysis:
+Objective: Analyze and refine the gathered requirements to ensure clarity, completeness, and consistency.
+Techniques: Use cases, user stories, requirement prioritization, and requirement validation techniques help identify essential features and functionalities.
+Documentation:
+Objective: Document the requirements in a clear, unambiguous manner to serve as a blueprint for design and development activities.
+Artifacts: Requirement specifications, use case diagrams, user stories, and other documentation formats are used to capture and communicate requirements.
+Validation:
+Objective: Validate requirements with stakeholders to ensure they accurately reflect user needs and are feasible to implement.
+Techniques: Reviews, walkthroughs, prototypes, and simulations help identify inconsistencies, ambiguities, and conflicts in the requirements.
+Management:
+Objective: Manage requirements throughout the software development lifecycle, tracking changes, and ensuring traceability between requirements and other project artifacts.
+Tools: Requirement management tools facilitate version control, traceability, and collaboration among team members.
+
+
+Importance of Requirements Engineering:
+Alignment with User Needs:
+
+Requirements engineering ensures that software solutions are designed and developed to address the actual needs and expectations of end-users and stakeholders.
+Reduced Risks and Costs:
+
+Thorough requirements engineering helps mitigate project risks by identifying and resolving potential issues early in the development process, reducing rework and cost overruns.
+Improved Communication and Collaboration:
+
+Clear and well-documented requirements facilitate communication and collaboration among project stakeholders, including developers, testers, project managers, and clients.
+Enhanced Quality and Customer Satisfaction:
+
+Software solutions that accurately reflect user needs are more likely to meet quality standards and customer expectations, resulting in higher satisfaction levels.
+Basis for Design and Development:
+
+Requirements engineering provides the foundation for software design and development activities, guiding architects and developers in building solutions that meet specified requirements.
+
+
+Software Design Principles:
+Software design principles are fundamental concepts and guidelines that inform the design of software systems. These principles aim to promote modularity, reusability, maintainability, and scalability. Some key software design principles include:
+
+DRY (Don't Repeat Yourself):
+
+Avoid duplication of code or functionality to promote code reusability, maintainability, and consistency.
+SOLID Principles:
+
+SOLID is an acronym for five design principles:
+Single Responsibility Principle (SRP)
+Open/Closed Principle (OCP)
+Liskov Substitution Principle (LSP)
+Interface Segregation Principle (ISP)
+Dependency Inversion Principle (DIP)
+These principles aim to create modular, flexible, and maintainable software designs.
+KISS (Keep It Simple, Stupid):
+
+Favor simplicity in design and implementation to reduce complexity, minimize errors, and enhance understanding.
+YAGNI (You Ain't Gonna Need It):
+
+Only implement features or functionalities when they are required by the current project scope, avoiding unnecessary complexity and future-proofing designs.
+Separation of Concerns:
+
+Divide the system into distinct modules or layers, each responsible for a specific concern or functionality, to promote modularity and maintainability.
+Abstraction:
+
+Hide implementation details behind well-defined interfaces or abstractions to reduce coupling and enhance flexibility.
+Encapsulation:
+
+Encapsulate related data and behavior within cohesive units (e.g., classes or modules) to enforce modularity, information hiding, and maintainability.
