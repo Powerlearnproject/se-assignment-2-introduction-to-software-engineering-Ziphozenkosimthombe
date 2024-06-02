@@ -1,0 +1,30 @@
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase. Agile vs. Waterfall Models:
+  - The Software Development Life Cycle (SDLC) comprises distinct phases, each crucial for the successful creation and deployment of software solutions.
+
+1. Requirements Gathering:
+This pivotal stage involves eliciting and documenting client or end-user needs and expectations. It's imperative to establish a clear understanding of functional and non-functional requirements to guide subsequent phases effectively.
+
+2. Planning:
+In the planning phase, project objectives, scope, timeline, resources, and risks are meticulously outlined. Comprehensive planning ensures alignment with organizational goals and sets the groundwork for successful project execution.
+
+3. Design:
+The design phase focuses on translating requirements into a blueprint for software architecture and functionality. It encompasses both high-level architectural design and detailed component design, ensuring scalability, modularity, and maintainability.
+
+4. Implementation (Coding):
+During implementation, developers bring the design to life through coding. Adherence to coding standards, best practices, and version control is imperative to ensure code quality, readability, and maintainability.
+
+5. Testing:
+Testing is a critical phase aimed at uncovering defects and validating that the software meets specified requirements. It encompasses various testing types, including unit testing, integration testing, system testing, and user acceptance testing (UAT).
+
+6. Deployment:
+Deployment involves releasing the software into the production environment, ensuring smooth transition and minimal disruption. It involves configuration, installation, and validation to ensure the software functions as intended in the target environment.
+
+7. Maintenance:
+Following deployment, the software enters the maintenance phase, where it undergoes updates, enhancements, and bug fixes to address evolving user needs and technological advancements. Proactive maintenance is essential to ensure the software remains robust and reliable over its lifecycle.
+
+
+Agile Model:
+Agile emphasizes iterative development, collaboration, and flexibility in responding to changing requirements. It breaks the project into small, manageable increments, known as sprints, allowing for continuous feedback and adaptation. Agile promotes customer satisfaction through early and frequent delivery of working software, fostering transparency, and minimizing risks.
+
+Waterfall Model:
+Conversely, the Waterfall model follows a sequential, linear approach, where each phase flows downward, akin to a waterfall. It entails distinct, non-overlapping phases, with requirements gathering preceding design, implementation, testing, deployment, and maintenance. While offering a structured and systematic approach, the Waterfall model lacks the adaptability and responsiveness to change inherent in Agile.
